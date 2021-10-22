@@ -1,2 +1,4 @@
-###
-Repo com os "vagrantfile" utilizado para criar o meu ambiente de estudo.
+### Repo com os "Vagrantfile" utilizados para criar meu ambiente de estudo.
+- [x] Docker
+- [ ] Kubernetes
+- [ ] Istio
